@@ -16,7 +16,12 @@ By providing these insights, the project aimed to help Pillow Palooza make strat
 After meeting with your team, you wrote some questions to guide you along the analysis:
 
 What are the most popular neighborhoods for short-term rentals in New York City?
+
 What is the average rental price for short-term rentals in New York City, and how does it vary by neighborhood and property type?
+
 What are the most commonly rented property types on Airbnb in New York City, and how does this vary by neighborhood?
+
 What is the average length of stay for short-term rentals in New York City, and how does this vary by neighborhood and property type?
+
 How has demand for short-term rentals in New York City changed over time, and are there any seasonal trends that could impact business decisions?
+
