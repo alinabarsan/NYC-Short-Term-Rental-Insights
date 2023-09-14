@@ -25,3 +25,4 @@ What is the average length of stay for short-term rentals in New York City, and 
 
 How has demand for short-term rentals in New York City changed over time, and are there any seasonal trends that could impact business decisions?
 
+Tableau link: https://public.tableau.com/shared/FHK88Y9PY?:display_count=n&:origin=viz_share_link
